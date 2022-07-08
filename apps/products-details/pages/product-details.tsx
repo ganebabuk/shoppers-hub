@@ -5,7 +5,7 @@ export function ProductDetails() {
     return (
         <>
             <Header />
-            <h1>Product Details</h1>
+            <h1 className={'font-bold'}>Product Details</h1>
         </>
     )
 }

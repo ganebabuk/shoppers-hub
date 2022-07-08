@@ -5,7 +5,7 @@ export function ProductList() {
     return (
         <>
             <Header />
-            <h1>Product List</h1>
+            <h1 className={'font-bold'}>Product List</h1>
         </>
     )
 }
