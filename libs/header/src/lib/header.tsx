@@ -6,7 +6,7 @@ export interface HeaderProps {}
 export function Header(props: HeaderProps) {
   return (
     <div className={styles['container']}>
-      <h1 className={'font-bold text-center'}>Welcome to Header!</h1>
+      <h1 className={'font-bold'}>Header</h1>
     </div>
   );
 }

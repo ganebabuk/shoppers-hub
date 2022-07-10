@@ -3,11 +3,9 @@
   "version": 2,
   "projects": {
     "header": "libs/header",
-    "products-details": "apps/products-details",
-    "products-details-e2e": "apps/products-details-e2e",
-    "products-list": "apps/products-list",
-    "products-list-e2e": "apps/products-list-e2e",
-    "shoppers": "apps/shoppers",
-    "shoppers-e2e": "apps/shoppers-e2e"
+    "product-details": "apps/product-details",
+    "product-details-e2e": "apps/product-details-e2e",
+    "products": "apps/products",
+    "products-e2e": "apps/products-e2e"
   }
 }
